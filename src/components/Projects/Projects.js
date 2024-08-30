@@ -4,8 +4,7 @@ import ProjectCard from "./ProjectCards";
 import AlienCrush from "../../Assets/Projects/AlienCrush.png";
 import nova from "../../Assets/Projects/nova.png";
 import Genesis from "../../Assets/Projects/Genesis.png";
-import edi from "../../Assets/Projects/Edi-me.png";
-import taskManager from "../../Assets/Projects/taskManager.png";
+import LogoNOPain from "../../Assets/logoinst.png"
 
 function Projects() {
   return (
@@ -29,20 +28,13 @@ function Projects() {
           </Col> 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={edi}
+              imgPath={LogoNOPain}
               isBlog={false}
-              title="EDI.ME is an e-commerce website for wireless headphones"
-              ghLink="https://github.com/darrriannna/Edu.me-e-commerce"
-              
-            />
-          </Col> 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={taskManager}
-              isBlog={false}
-              title="Task Manager"
-              description="Personal task manager app made with JavaScript to keep you thoughts and grocery list in order."
-              ghLink="https://github.com/darrriannna/TaskManager"
+              title="NoPainClinic professional website made with React"
+              description="React app, bootstrap, domain management, hosting management, integration of journal system for booking and payment"
+              ghLink="https://github.com/darrriannna/RehabScan-e-commerce"
+              demoLink="https://nopainclinic.se"
+
             />
           </Col>
 
