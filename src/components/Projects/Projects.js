@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import AlienCrush from "../../Assets/Projects/AlienCrush.png";
-import nova from "../../Assets/Projects/nova.png";
+import rehabscan from "../../Assets/Projects/RehabScan.png";
 import Genesis from "../../Assets/Projects/Genesis.png";
 import LogoNOPain from "../../Assets/logoinst.png"
 
@@ -51,7 +51,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={nova}
+              imgPath={rehabscan}
               isBlog={false}
               title="A professional website for MRI-clinic made with React and Node.js"
               ghLink="https://github.com/darrriannna/MRI-rehabscan"

@@ -23,7 +23,7 @@ function Home() {
                 <Type />
               </div>
 
-              <h4 className="heading">I am a junior front-end developer with a designer soul and huge enthusiasm. 
+              <h4 className="heading">I am a junior front-end developer and UX/UI designer with huge enthusiasm. 
               I am really passionate about learning and exploring new things in IT world. </h4>
             </Col>
 
