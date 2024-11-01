@@ -55,7 +55,7 @@ function Projects() {
               isBlog={false}
               title="A professional website for MRI-clinic made with React and Node.js"
               ghLink="https://github.com/darrriannna/MRI-rehabscan"
-              demoLink="www.rehabscan.se"
+              demoLink="https://rehabscan.se"
             />
           </Col>
         </Row>
