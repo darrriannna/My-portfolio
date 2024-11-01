@@ -53,9 +53,9 @@ function Projects() {
             <ProjectCard
               imgPath={nova}
               isBlog={false}
-              title="A professional website for MRI-clinic made with Bootstrap"
-              ghLink="https://github.com/darrriannna/NOVA"
-              demoLink="https://darrriannna.github.io/NOVA/#"
+              title="A professional website for MRI-clinic made with React and Node.js"
+              ghLink="https://github.com/darrriannna/MRI-rehabscan"
+              demoLink="www.rehabscan.se"
             />
           </Col>
         </Row>
