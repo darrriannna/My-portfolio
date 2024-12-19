@@ -14,7 +14,7 @@ function AboutCard() {
             
             <br />
             I have moved to Sweden two years ago and finished a course of IT- Front-end in Sundsgården. 
-            Besides that I have finished Kyiv International Economic University in Finance&Marketing and have UX/UI diploma from SCVOT. 
+            Besides that I have finished Kyiv International Economic University in Finance&Marketing and have UX/UI&graphic designer diploma from SCVOT. 
             <br />
             <br />
           </p>
