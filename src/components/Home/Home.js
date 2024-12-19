@@ -24,7 +24,7 @@ function Home() {
               </div>
 
               <h4 className="heading">I am a junior front-end developer and UX/UI designer with huge enthusiasm. 
-              I am really passionate about learning and exploring new things in IT world. </h4>
+              I am really passionate about learning and exploring new things in IT and graphic design world. </h4>
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
